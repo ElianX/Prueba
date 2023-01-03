@@ -1,7 +1,0 @@
-desde local
-
-
-Cambio desde local
-
-Cambios desde repo
-
